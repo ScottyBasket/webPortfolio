@@ -88,6 +88,10 @@
     position: relative;
 }
 
+.projectText:hover{
+    cursor: pointer;
+}
+
 .projectText > h3,p{
     margin:.5em 1em;
 }
@@ -170,7 +174,7 @@ a{
     flex-wrap:wrap;
     justify-content:space-around;
     align-items: center;
-    margin-bottom:10em;
+    margin-bottom:5em;
 }
 
 .individualExperience{
