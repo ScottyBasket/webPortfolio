@@ -15,7 +15,7 @@
 
 #leftImg{
     width:39vw;
-    height:80vh;
+    height:60vh;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -24,7 +24,7 @@
 
 #rightText{
     width:49vw;
-    height:80vh;
+    height:60vh;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
