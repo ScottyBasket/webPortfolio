@@ -89,7 +89,7 @@
 }
 
 .projectText > h3,p{
-    margin:1em;
+    margin:.5em 1em;
 }
 
 .projectText button{
@@ -355,8 +355,8 @@ input,textarea{
 }
 
 .tag{
-    padding: .5em;
-    margin: .25em .5em;
+    padding: .5em .75em;
+    margin: .25em 1em;
     background-color: #2c2c2c;
     color:white;
     border-radius:5px;
