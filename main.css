@@ -66,6 +66,7 @@
     margin: 1em 1em 5em 1em;
     width:35%;
     min-width: 600px;
+    min-height:300px;
     height:35vh;
     position:relative;
     color:black;
