@@ -63,9 +63,9 @@
 }
 
 .project{
-    margin: 5em .5em;
+    margin: 5em 1em;
     width:35%;
-    min-width: 700px;
+    min-width: 600px;
     height:35vh;
     position:relative;
     color:black;
@@ -76,13 +76,13 @@
 .projectImg{
     background-position: top;
     background-size: cover;
-    min-width:300px;
+    min-width:250px;
     height:100%;
     border-radius: 15px;
 }
 
 .projectText{
-    min-width: 400px;
+    min-width: 350px;
     height:100%;
     border-radius: 15px ;
     position: relative;
